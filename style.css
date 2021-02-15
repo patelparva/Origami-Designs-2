@@ -1,11 +1,6 @@
 .bodyimg{
     background-image: url(background.jpg);
 }
-
-.bodyimg h3{
-    
-}
-
 .menu{
     display: flex;
     justify-content: space-between;
@@ -35,8 +30,6 @@ body{
     margin: 3%;
 
     background-color: white;
-
-    border: black solid;
 }
 
 .origami img{
